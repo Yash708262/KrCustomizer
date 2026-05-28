@@ -1,5 +1,5 @@
 import React from 'react'
-import ellipse from '/Users/yash/Desktop/Kr customizer/KR Customizer/src/assets/images/Ellipse 2598.png'
+import ellipse from '../../assets/images/Ellipse 2598.png'
 
 // Alag alag icons import karo apne assets se
 

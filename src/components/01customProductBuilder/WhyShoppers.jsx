@@ -1,5 +1,5 @@
 import React from 'react'
-import shopperimg from '/Users/yash/Desktop/Kr customizer/KR Customizer/src/assets/images/shopperimg.png'
+import shopperimg from '../../assets/images/shopperimg.png'
 
 const WhyShoppers = () => {
   return (

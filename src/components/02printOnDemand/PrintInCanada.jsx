@@ -1,7 +1,7 @@
 import React from 'react'
-import group11 from '/Users/yash/Desktop/Kr customizer/KR Customizer/src/assets/images/Group 1171282388.png'
-import star from '/Users/yash/Desktop/Kr customizer/KR Customizer/src/assets/images/star.png'
-import rightArrow from '/Users/yash/Desktop/Kr customizer/KR Customizer/src/assets/images/rightarrow.png'
+import group11 from '../../assets/images/Group 1171282388.png'
+import star from '../../assets/images/star.png'
+import rightArrow from '../../assets/images/rightarrow.png'
 
 const features = [
   "Trusted by thousands of sellers",

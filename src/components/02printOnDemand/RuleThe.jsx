@@ -1,6 +1,6 @@
 import React from 'react'
-import tshirt1 from '/Users/yash/Desktop/Kr customizer/KR Customizer/src/assets/images/tshirt1.png'
-import tshirt2 from '/Users/yash/Desktop/Kr customizer/KR Customizer/src/assets/images/tshirt2.png'
+import tshirt1 from '../../assets/images/tshirt1.png'
+import tshirt2 from '../../assets/images/tshirt2.png'
 
 const RuleThe = () => {
   return (

@@ -1,5 +1,5 @@
 import React from 'react'
-import shoe from '/Users/yash/Desktop/Kr customizer/KR Customizer/src/assets/images/Group 1171281851.png'
+import shoe from '../../assets/images/shoe.png'
 
 const CustomProduct = () => {
   return (

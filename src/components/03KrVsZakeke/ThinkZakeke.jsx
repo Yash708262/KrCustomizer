@@ -1,5 +1,5 @@
 import React from 'react'
-import tshirt3 from '/Users/yash/Desktop/Kr customizer/KR Customizer/src/assets/images/tshirt3.png'
+import tshirt3 from '../../assets/images/tshirt3.png'
 
 const ThinkZakeke = () => {
     return (

@@ -1,5 +1,5 @@
 import React from 'react'
-import photo from '/Users/yash/Desktop/Kr customizer/KR Customizer/src/assets/images/1bf8e4bb939062b92211cec5fd7b66626597491d.png'
+import photo from '../../assets/images/photo.png'
 
 const WhatIsCustom = () => {
     return (

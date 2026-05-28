@@ -1,7 +1,7 @@
 import React from 'react'
-import Card1 from '/Users/yash/Desktop/Kr customizer/KR Customizer/src/assets/images/Card1.png'
-import Card2 from '/Users/yash/Desktop/Kr customizer/KR Customizer/src/assets/images/83817054cc6eb4078c252c89e318222b41327c1d.png'
-import Card3 from '/Users/yash/Desktop/Kr customizer/KR Customizer/src/assets/images/5b266d4b108d117888263b55aa3946b18dc43740.png'
+import Card1 from '../../assets/images/Card1.png'
+import Card2 from '../../assets/images/Card2.png'
+import Card3 from '../../assets/images/Card3.png'
 
 const HowACustom = () => {
     return (

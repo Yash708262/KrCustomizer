@@ -1,5 +1,5 @@
 import React from 'react'
-import MensCap from '/Users/yash/Desktop/Kr customizer/KR Customizer/src/assets/images/MensCap.png'
+import MensCap from '../../src/assets/images/MensCap.png'
 
 const WhatIsPrint = () => {
   return (

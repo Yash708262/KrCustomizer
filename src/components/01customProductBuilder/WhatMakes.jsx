@@ -1,7 +1,7 @@
 import React from 'react'
-import photo3 from '/Users/yash/Desktop/Kr customizer/KR Customizer/src/assets/images/4a124dd2c51eaf22deaa4d2121646a4649c02e3d.png'
-import photo4 from '/Users/yash/Desktop/Kr customizer/KR Customizer/src/assets/images/photo4.png'
-import order from '/Users/yash/Desktop/Kr customizer/KR Customizer/src/assets/images/orderplaced.png'
+import photo3 from '../../assets/images/photo3.png'
+import photo4 from '../../assets/images/photo4.png'
+import order from '../../assets/images/orderplaced.png'
 
 
 const cards = [
