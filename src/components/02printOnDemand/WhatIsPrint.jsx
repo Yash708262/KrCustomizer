@@ -1,5 +1,5 @@
 import React from 'react'
-import MensCap from '../../src/assets/images/MensCap.png'
+import MensCap from '../../assets/images/MensCap.png'
 
 const WhatIsPrint = () => {
   return (
